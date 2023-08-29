@@ -1,0 +1,5 @@
+--class-path src
+--main Main
+--library hxjsonast
+--library json2object
+--cpp bin
